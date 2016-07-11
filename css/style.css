@@ -136,6 +136,9 @@ ul.submenu{
 	top: 100%;
 	position: absolute;
 }
+.column{
+	overflow: hidden;
+}
 .column p{
 	color:#424c43;
 	font-size:14px;
@@ -143,8 +146,6 @@ ul.submenu{
 }
 p.title{
 	padding:5px 0px;
-}
-p.size-18{
 	font-size:18px;
 	font-weight: bold;
 }
